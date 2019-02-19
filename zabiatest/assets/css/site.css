@@ -1,0 +1,74 @@
+.table-click>tbody>tr {
+    cursor: default;
+}
+
+.table-click>tbody>tr:hover {
+    cursor: pointer;
+}
+
+.table>thead>tr>th {
+    text-align: center;
+    font-weight: bold;
+    background-color: #D0D0D0;
+    vertical-align: middle;
+}
+
+.table>tbody>tr.insumo {
+    background-color: #F7F7F7;
+}
+
+.table>tbody>tr.cota-superior-advertencia {
+    background-color: #F5C7C7;
+}
+
+.table-sub {
+    width: 100%;
+}
+
+.table-sub>thead>tr tbody>tr {
+    background-color: #fff;
+}
+
+.table-sub>thead>tr {
+    border-bottom: solid 1px #d0d0d0;
+}
+
+.table-sub>tbody>tr {
+    border-bottom: solid 1px #d0d0d0;
+}
+
+.table-sub>thead>tr>th {
+    padding: 10px;
+}
+
+.table-sub>tbody>tr>td {
+    padding: 10px;
+}
+
+.no-show {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.table>tbody>tr.Inactivo {
+    color: solid 1px #d0d0d0;
+}
+
+.derecha {
+    text-align: right;
+}
+
+.bajada {
+    font-size: 10px;
+}
+
+i {
+    cursor: default;
+}
+
+i:hover {
+    cursor: pointer;
+}

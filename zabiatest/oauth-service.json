@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automated-rune-210019",
+  "private_key_id": "20997125e70f5539fb40fbf02a958e63de3d8677",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIy39sV7q23o4G\nD/MfygEkw9rnFlZpmf+Vp5XGbFhCKySSFcV5PC3yYO2iMf7u/z31BMPQ0DzYTI1t\ns95mZeaxgNJ5dRCEby6pon7bcWKyoc0+9kcAJLwTDj8e2Lw3eM+57JehjZoxh+YS\n8QIWssgGltouqfR7ONw7T8mEkI2IRJKTRG/LkDuxD2mkwKMl+H4PbyAeAOm/Uote\nqXNEjiWCaUacF8G+l09UpZAHvzQe1gH2IF7HGiBzSTyL5MyBGlV5V09H4C3mPr2U\nJ+enAjXhsgFf0sHeIduGLufeHkyOuXessK6v6ZHPw33WpsFwx9q+GlkZSKoqdj96\nZG0yCf2ZAgMBAAECggEABnLYpQldPv2/SG0PNRRm/IAIwfaq8EnIlk0TR5PXsspR\napql5Kqc3CWmRBkAc7sBSaLtSgHCDn1I5n7KE/ZOViGJwOpUTTiH4l1MXy5RSeTd\n41mD9rp3StJgjxRNWSe5XiJ9zSuvycrwRef1FfcIawPBvpFpP2LYWdRKZ8Y/sWJZ\nz/zpsDu1S4qenox4GcRzdFqMkFVlbOW5NAarrSdUy3V9kiuE9S/by+JzYoyQvJkB\nha3mZGeLpG4A95S54nCY15wyDGRoyNMsaGvv3/Z95Uw7AiSfm2rpMdX+Sa5P2pju\nU77wyJuKa2Jfql2L6/wUMk0I+ozewecSN2wkP9X9oQKBgQDvkVhFuqj/pdn4EJOA\nKA7Qw4+c+3JVMnIrlIBeWpWD+70cQ1nXnU6s6opc8egvfQOIIl/12q/RBTLE3jRc\nzkvEKD68iLpBgwBX5B1i1LTeh4ei+XQKy7wylJ6yVEcjPWWgbDLJtklZOsagtaWU\nfaR1zWEud4oNd5umeawXl7MdaQKBgQDWkVOuG471WLpGKr45Aine0spUDFWBJSOA\nYvFR/lAWxawhoW9bT8yLNuaIEvUOZ0numXhV6Yi+DiJ154+43nGbuKi3KgFCzrVp\n9qp8kBdLRpFaEScCO+aqOJpCSdIcCmnGFKRi+kFghBs8F7Rcp7pQjTO8Nk2cc97e\n4Tw4iUBosQKBgGqV+fYcFDCZs56gkV+FcwIC4BRx8u5g4VbuXSadmsP77qlydbhu\nbqCUQTcVEb5/GmEpGhSiVXLjozDfw+A+kIsXdMIg+u1GwZJZFZHxHP+cwQYLgkuD\nVZoTcX/Z60SMfnifawE/ruaaNeEusBqew9r9o20vFibjvkaU/7IHdlNxAoGAA35M\nOXpzYmU2aywI+s6hNeKCrsmgnsCnClESEr6sOSKwwb9qG7d54g5bxH1ihgCCgKL5\nBZUOx+FdCERj36Onf9yKyqihaqAI7he5ANwrtOsKNMgwtWWaRM01Hb0r8Y7t1+7A\nGmhupg6gjuLn6dZFP0h9PiQ4MULlrwVFwLnjVZECgYA9RQwXfNSSQ8fYWmqbROfx\nsYP8fS1rbU/5q5iHdH4I/RrcRXEwC6X3PamtLReNDDYjxRgU6bx9e5IT++HXnrKJ\nJETvsy4hAVbHFmyr1EvgX83oDd3N+T5pmOuuqQKB1t/mwBre8WcfN3VPp6iwVpvY\n330pqQe79s4ESUM+0gO6XQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "descargar-archivo@automated-rune-210019.iam.gserviceaccount.com",
+  "client_id": "109803042484452840435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/descargar-archivo%40automated-rune-210019.iam.gserviceaccount.com"
+}

@@ -1,0 +1,30 @@
+<?php
+    $arregloUnidad = array('cucharada', 'cucharadita', 'gramo', 'lata', 'libra', 'litro', 'kilogramo', 'mililitro', 'onza', 'taza', 'unidad');
+    define('RECIPE_IMAGE_SHORT_PATH', 'imagen/receta/');
+    define('CALORIA_ID', 142);
+    define('GRASA_ID', 163);
+    define('RECIPE_IMAGE_REMOTE_PATH', 'recipe/');
+    define('PREFIX_RECIPE_IMAGE_SMALL', '170x120');
+    define('PREFIX_RECIPE_IMAGE_MEDIUM', '200x150');
+    define('PREFIX_RECIPE_IMAGE_LARGE', '230x180');
+    define('WIDTH_RECIPE_IMAGE_SMALL', '170w');
+    define('WIDTH_RECIPE_IMAGE_MEDIUM', '200w');
+    define('WIDTH_RECIPE_IMAGE_LARGE', '230w');
+    define('SIZE_RECIPE_IMAGE_SET', '(max-width: 640px) 170px, (max-width: 1024px) 200px, 230px');
+    define('PLATE_TYPE_IMAGE_REMOTE_PATH', 'platetype/');
+    define('PREFIX_PLATE_TYPE_IMAGE_SMALL', '170x120');
+    define('PREFIX_PLATE_TYPE_IMAGE_MEDIUM', '200x150');
+    define('PREFIX_PLATE_TYPE_IMAGE_LARGE', '230x180');
+    define('WIDTH_PLATE_TYPE_IMAGE_SMALL', '170w');
+    define('WIDTH_PLATE_TYPE_IMAGE_MEDIUM', '200w');
+    define('WIDTH_PLATE_TYPE_IMAGE_LARGE', '230w');
+    define('SIZE_PLATE_TYPE_IMAGE_SET', '(max-width: 640px) 170px, (max-width: 1024px) 200px, 230px');
+    define('DIET_TYPE_IMAGE_REMOTE_PATH', 'platetype/');
+    define('PREFIX_DIET_TYPE_IMAGE_SMALL', '170x120');
+    define('PREFIX_DIET_TYPE_IMAGE_MEDIUM', '200x150');
+    define('PREFIX_DIET_TYPE_IMAGE_LARGE', '230x180');
+    define('WIDTH_DIET_TYPE_IMAGE_SMALL', '170w');
+    define('WIDTH_DIET_TYPE_IMAGE_MEDIUM', '200w');
+    define('WIDTH_DIET_TYPE_IMAGE_LARGE', '230w');
+    define('SIZE_DIET_TYPE_IMAGE_SET', '(max-width: 640px) 170px, (max-width: 1024px) 200px, 230px');
+?>
